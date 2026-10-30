@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21dp margins) -->
+    <!-- Subway train body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C30.69,26 28,28.69 28,32 L28,68 C28,73.52 32.48,78 38,78 L34,84 L40,84 L44,78 L64,78 L68,84 L74,84 L70,78 C75.52,78 80,73.52 80,68 L80,32 C80,28.69 77.31,26 74,26 L34,26 Z M33,37 L75,37 L75,54 L33,54 L33,37 Z M39,69 C36.79,69 35,67.21 35,65 C35,62.79 36.79,61 39,61 C41.21,61 43,62.79 43,65 C43,67.21 41.21,69 39,69 Z M69,69 C66.79,69 65,67.21 65,65 C65,62.79 66.79,61 69,61 C71.21,61 73,62.79 73,65 C73,67.21 71.21,69 69,69 Z" />
+    <!-- MBTA color line accent stripe on train front -->
+    <path
+        android:fillColor="#DA291C"
+        android:pathData="M33,56 L43,56 L43,58 L33,58 Z" />
+    <path
+        android:fillColor="#ED8B00"
+        android:pathData="M44,56 L53,56 L53,58 L44,58 Z" />
+    <path
+        android:fillColor="#00843D"
+        android:pathData="M54,56 L64,56 L64,58 L54,58 Z" />
+    <path
+        android:fillColor="#003DA5"
+        android:pathData="M65,56 L75,56 L75,58 L65,58 Z" />
+</vector>

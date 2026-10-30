@@ -1,0 +1,6 @@
+{
+  "name": "MBTA Live",
+  "description": "Real-time Boston transit tracking, multi-leg journey planning, and glanceable Android Live Update lock screen notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
